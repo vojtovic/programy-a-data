@@ -1,0 +1,130 @@
+body {
+    background-image: url("ahmad-dirini-F7Sive0fwIg-unsplash.jpg");
+    background-size:1960px 1800px;
+}
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    border: white;
+    border-style: solid;
+    border-width: 5px;
+    position: sticky;
+    bottom: 825px;
+    left: 45px;
+    width: 1800px;
+    border: 5px solid #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+  }
+
+h2 {
+    color: rgb(255, 255, 255);
+}
+
+div.menu {
+  position: absolute;
+  top: 1100px;
+  right: 80px;
+  width: 1750px;
+  border: 5px solid #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+}
+
+
+.aligncenter {
+    text-align: center;
+}
+
+img {
+    width: 20%;
+    height: auto;
+    text-align: center;
+}
+
+div.menu:hover,div.menu:active
+{
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  border: 5px solid #000000;
+  width: 1800px;
+  font-size: 35px;
+  top: 1100px;
+  right: 55px;
+  position: absolute;
+}
+a:link, a:visited {
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: rgb(255, 254, 254);
+  }
+  
+  a:hover, a:active {
+    color: white;
+    font-size: 30px;
+}
+div.text1 {text-align: center;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  top: 200px;
+  right: 250px;
+  width: 1400px;
+  height: 800px;
+  border: 3px solid #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+div.tabulka3{
+  position: absolute;
+  top: 1000px;
+  right: 500px;
+  width: 400px;
+  height: 30px;
+  border: 3px solid #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  background-color: rgb(0, 0, 0);
+}
+div.tabulka3:hover, div.tabulka3:active
+{
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid #000000;
+  position: absolute;
+  top: 930px;
+  right: 500px;
+  width: 400px;
+  height: 30px;
+  font-size: 20px;
+}
+div.tabulka2{
+  position: absolute;
+  top: 450px;
+  right: 500px;
+  width: 400px;
+  height: 30px;
+  border: 3px solid #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  background-color: rgb(0, 0, 0);
+}
+div.tabulka2:hover, div.tabulka2:active
+{
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid #000000;
+  position: absolute;
+  top: 450px;
+  right: 500px;
+  width: 400px;
+  height: 30px;
+  font-size: 20px;
+}
