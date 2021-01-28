@@ -1,0 +1,178 @@
+
+body {
+    background-image: url("pexels-ovan-57690.jpg");
+    background-size: 2000px 2000px;
+  }
+    	h1 {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  border: white;
+  border-style: solid;
+  border-width: 5px;
+  position: fixed;
+  bottom: 825px;
+  right: 55px;
+  width: 1800px;
+  border: 5px solid #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+}
+a:link, a:visited {
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  color: rgb(255, 254, 254);
+}
+
+a:hover, a:active {
+  color: white;
+  font-size: 30px;
+}
+  div.tabulka1{
+  position: absolute;
+  top: 300px;
+  right: 1400px;
+  width:  400px;
+  height: 35px;
+  border: 3px solid #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  background-color: rgb(0, 0, 0);
+}
+div.tabulka1:hover, div.tabulka1:active
+{
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid #000000;
+  top: 300px;
+  right: 1375px;
+  width: 450px;
+  height: 40px;
+  font-size: 35px;
+
+}
+div.tabulka2{
+  position: absolute;
+  top: 300px;
+  right: 750px;
+  width: 400px;
+  height: 35px;
+  border: 3px solid #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  background-color: rgb(0, 0, 0);
+}
+div.tabulka2:hover, div.tabulka2:active
+{
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  border: 3px solid #000000;
+  position: absolute;
+  top: 300px;
+  right: 725px;
+  width: 450px;
+  height: 40px;
+  font-size: 35px;
+}
+ 
+  div.tabulka3{
+  position: absolute;
+  top: 300px;
+  right: 100px;
+  width: 400px;
+  height: 35px;
+  border: 3px solid #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  background-color: rgb(0, 0, 0);
+  
+}
+div.tabulka3:hover, div.tabulka3:active
+{
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid #000000;
+  top: 300px;
+  right: 75px;
+  width: 450px;
+  height: 40px;
+  font-size: 35px;
+}
+  div.tabulka4{
+  position: absolute;
+  top: 500px;
+  right: 1400px;
+  width: 400px;
+  height: 35px;
+  border: 3px solid #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  background-color: rgb(0, 0, 0);
+  
+}
+div.tabulka4:hover, div.tabulka4:active
+{
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid #000000;
+  top: 500px;
+  right: 1375px;
+  width: 450px;
+  height: 40px;
+  font-size: 35px;
+}
+  div.tabulka5{
+  position: absolute;
+  top: 500px;
+  right: 750px;
+  width: 400px;
+  height: 35px;
+  border: 3px solid #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  background-color: rgb(0, 0, 0);
+  
+}
+div.tabulka5:hover, div.tabulka5:active
+{
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid #000000;
+  top: 500px;
+  right: 725px;
+  width: 450px;
+  height: 40px;
+  font-size: 35px;
+}
+  div.tabulka6{
+  position: absolute;
+  top: 500px;
+  right: 100px;
+  width: 400px;
+  height: 35px;
+  border: 3px solid #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  background-color: rgb(0, 0, 0);
+  
+}
+div.tabulka6:hover, div.tabulka6:active
+{
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid #000000;
+  top: 500px;
+  right: 75px;
+  width: 450px;
+  height: 40px;
+  font-size: 35px;
+}
+  
